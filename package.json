@@ -27,6 +27,9 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "canvas": "^2.6.1",
     "chokidar": "^3.5.1",
